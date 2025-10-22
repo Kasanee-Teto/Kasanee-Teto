@@ -1,5 +1,5 @@
 # 💫 About Me:
-https://github-production-user-asset-6210df.s3.amazonaws.com/35027979/413226112-b07975fc-1c49-4dbb-bf61-a9eedd8b0492.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251022T024848Z&X-Amz-Expires=300&X-Amz-Signature=e1a258d04449a516e47b9be7eade50579e7d204cfe8e7f4f0a016c8f8e0e592c&X-Amz-SignedHeaders=host
+<div class="tenor-gif-embed" data-postid="10447765819922799179" data-share-method="host" data-aspect-ratio="1.49102" data-width="100%"><a href="https://tenor.com/view/teto-kasane-teto-teto-kasane-caramelldansen-caramell-dansen-gif-10447765819922799179">Teto Kasane Teto GIF</a>from <a href="https://tenor.com/search/teto-gifs">Teto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kasanee-Teto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
