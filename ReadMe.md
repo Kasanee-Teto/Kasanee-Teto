@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div class="tenor-gif-embed" data-postid="10447765819922799179" data-share-method="host" data-aspect-ratio="1.49102" data-width="100%"><a href="https://tenor.com/view/teto-kasane-teto-teto-kasane-caramelldansen-caramell-dansen-gif-10447765819922799179">Teto Kasane Teto GIF</a>from <a href="https://tenor.com/search/teto-gifs">Teto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="teto-kasane-teto.gif">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kasanee-Teto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
